@@ -1,0 +1,12 @@
+div{
+    background-color: aqua;
+    height: 350px;
+    width: 350px;
+    border-radius: 1rem dashed red;
+}
+h1{text-align: center;
+    border: 0.5rem solid black;
+    width:0.5px ;
+    padding-left: 4rem;
+    margin-right: 8rem;
+}
